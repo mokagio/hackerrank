@@ -13,6 +13,7 @@
 		3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */; };
 		3FC9C05523F5566D006AD674 /* RepeatedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C05423F5566D006AD674 /* RepeatedString.swift */; };
 		3FC9C05723F55CA9006AD674 /* 2DArraysDS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C05623F55CA9006AD674 /* 2DArraysDS.swift */; };
+		3FC9C05923F60503006AD674 /* EqualizeTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C05823F60503006AD674 /* EqualizeTheArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 		3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpingOnTheClouds.swift; sourceTree = "<group>"; };
 		3FC9C05423F5566D006AD674 /* RepeatedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedString.swift; sourceTree = "<group>"; };
 		3FC9C05623F55CA9006AD674 /* 2DArraysDS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2DArraysDS.swift; sourceTree = "<group>"; };
+		3FC9C05823F60503006AD674 /* EqualizeTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualizeTheArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */,
 				3FC9C05423F5566D006AD674 /* RepeatedString.swift */,
 				3FC9C04623F41093006AD674 /* SockMerchant.swift */,
+				3FC9C05823F60503006AD674 /* EqualizeTheArray.swift */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */,
 				3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */,
 				3FC9C05723F55CA9006AD674 /* 2DArraysDS.swift in Sources */,
+				3FC9C05923F60503006AD674 /* EqualizeTheArray.swift in Sources */,
 				3FC9C05523F5566D006AD674 /* RepeatedString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
