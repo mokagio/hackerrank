@@ -10,6 +10,7 @@
 		3FC9C04223F41093006AD674 /* HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC9C03823F41092006AD674 /* HackerRank.framework */; };
 		3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C04623F41093006AD674 /* SockMerchant.swift */; };
 		3FC9C04923F41093006AD674 /* HackerRank.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FC9C03B23F41092006AD674 /* HackerRank.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +30,7 @@
 		3FC9C04123F41093006AD674 /* HackerRankTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackerRankTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC9C04623F41093006AD674 /* SockMerchant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SockMerchant.swift; sourceTree = "<group>"; };
 		3FC9C04823F41093006AD674 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpingOnTheClouds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,8 +82,9 @@
 		3FC9C04523F41093006AD674 /* HackerRankTests */ = {
 			isa = PBXGroup;
 			children = (
-				3FC9C04623F41093006AD674 /* SockMerchant.swift */,
 				3FC9C04823F41093006AD674 /* Info.plist */,
+				3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */,
+				3FC9C04623F41093006AD674 /* SockMerchant.swift */,
 			);
 			path = HackerRankTests;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */,
+				3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
