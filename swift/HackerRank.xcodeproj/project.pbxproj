@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3F589A9023FA4F0200ACB619 /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F589A8F23FA4F0200ACB619 /* CompareTheTriplets.swift */; };
 		3F589A9223FB2E1E00ACB619 /* AVeryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F589A9123FB2E1E00ACB619 /* AVeryBigSum.swift */; };
+		3F589A9423FB2EF200ACB619 /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F589A9323FB2EF200ACB619 /* DiagonalDifference.swift */; };
 		3FC9C04223F41093006AD674 /* HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC9C03823F41092006AD674 /* HackerRank.framework */; };
 		3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C04623F41093006AD674 /* SockMerchant.swift */; };
 		3FC9C04923F41093006AD674 /* HackerRank.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FC9C03B23F41092006AD674 /* HackerRank.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		3F589A8F23FA4F0200ACB619 /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
 		3F589A9123FB2E1E00ACB619 /* AVeryBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVeryBigSum.swift; sourceTree = "<group>"; };
+		3F589A9323FB2EF200ACB619 /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
 		3FC9C03823F41092006AD674 /* HackerRank.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HackerRank.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC9C03B23F41092006AD674 /* HackerRank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HackerRank.h; sourceTree = "<group>"; };
 		3FC9C03C23F41092006AD674 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				3FC9C05623F55CA9006AD674 /* 2DArraysDS.swift */,
 				3F589A9123FB2E1E00ACB619 /* AVeryBigSum.swift */,
 				3F589A8F23FA4F0200ACB619 /* CompareTheTriplets.swift */,
+				3F589A9323FB2EF200ACB619 /* DiagonalDifference.swift */,
 				3FC9C05823F60503006AD674 /* EqualizeTheArray.swift */,
 				3FC9C04823F41093006AD674 /* Info.plist */,
 				3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */,
@@ -225,6 +228,7 @@
 				3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */,
 				3FC9C05723F55CA9006AD674 /* 2DArraysDS.swift in Sources */,
 				3F589A9223FB2E1E00ACB619 /* AVeryBigSum.swift in Sources */,
+				3F589A9423FB2EF200ACB619 /* DiagonalDifference.swift in Sources */,
 				3FC9C05923F60503006AD674 /* EqualizeTheArray.swift in Sources */,
 				3FC9C05523F5566D006AD674 /* RepeatedString.swift in Sources */,
 			);
