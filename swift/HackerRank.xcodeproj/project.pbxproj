@@ -12,6 +12,7 @@
 		3F589A9423FB2EF200ACB619 /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F589A9323FB2EF200ACB619 /* DiagonalDifference.swift */; };
 		3FBF214623FCAE4D005A4D86 /* PlusOrMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBF214523FCAE4D005A4D86 /* PlusOrMinus.swift */; };
 		3FBF214823FD44D7005A4D86 /* Staircase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBF214723FD44D7005A4D86 /* Staircase.swift */; };
+		3FBF214A23FD488F005A4D86 /* MiniMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBF214923FD488F005A4D86 /* MiniMaxSum.swift */; };
 		3FC9C04223F41093006AD674 /* HackerRank.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC9C03823F41092006AD674 /* HackerRank.framework */; };
 		3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC9C04623F41093006AD674 /* SockMerchant.swift */; };
 		3FC9C04923F41093006AD674 /* HackerRank.h in Headers */ = {isa = PBXBuildFile; fileRef = 3FC9C03B23F41092006AD674 /* HackerRank.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -37,6 +38,7 @@
 		3F589A9323FB2EF200ACB619 /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
 		3FBF214523FCAE4D005A4D86 /* PlusOrMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOrMinus.swift; sourceTree = "<group>"; };
 		3FBF214723FD44D7005A4D86 /* Staircase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Staircase.swift; sourceTree = "<group>"; };
+		3FBF214923FD488F005A4D86 /* MiniMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniMaxSum.swift; sourceTree = "<group>"; };
 		3FC9C03823F41092006AD674 /* HackerRank.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HackerRank.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC9C03B23F41092006AD674 /* HackerRank.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HackerRank.h; sourceTree = "<group>"; };
 		3FC9C03C23F41092006AD674 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				3FC9C05823F60503006AD674 /* EqualizeTheArray.swift */,
 				3FC9C04823F41093006AD674 /* Info.plist */,
 				3FC9C05223F50453006AD674 /* JumpingOnTheClouds.swift */,
+				3FBF214923FD488F005A4D86 /* MiniMaxSum.swift */,
 				3FBF214523FCAE4D005A4D86 /* PlusOrMinus.swift */,
 				3FC9C05423F5566D006AD674 /* RepeatedString.swift */,
 				3FC9C04623F41093006AD674 /* SockMerchant.swift */,
@@ -229,6 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FBF214A23FD488F005A4D86 /* MiniMaxSum.swift in Sources */,
 				3F589A9023FA4F0200ACB619 /* CompareTheTriplets.swift in Sources */,
 				3FC9C04723F41093006AD674 /* SockMerchant.swift in Sources */,
 				3FC9C05323F50453006AD674 /* JumpingOnTheClouds.swift in Sources */,
