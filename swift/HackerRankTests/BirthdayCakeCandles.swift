@@ -4,23 +4,6 @@ import XCTest
 class BirthdayCakeCandles: XCTestCase {
 
     func birthdayCakeCandles(ar: [Int]) -> Int {
-//        var currentMaxHeight = 0
-//        var count = 0
-//        ar.forEach { candleHeight in
-//            switch candleHeight {
-//            case let h where h < currentMaxHeight:
-//                break
-//            case let h where h == currentMaxHeight:
-//                count += 1
-//            case let h where h > currentMaxHeight:
-//                // found a new max height, reset the count
-//                currentMaxHeight = h
-//                count = 1
-//            case _:
-//                fatalError("This is required to make the switch exhaustive, but should not happen")
-//            }
-//        }
-
         return ar.reduce((0, 0)) { acc, current in
             switch current {
             case let h where h < acc.0:
